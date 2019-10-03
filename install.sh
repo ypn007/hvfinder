@@ -66,11 +66,11 @@ echo "  ${PURPLE}  ==[ Program Type :Bash"
 echo "" 
 echo "${RED}Wait  Setting Up Files"
 sleep 5
-print "${GR}Creating Folder"
+echo "${GR}Creating Folder"
 sleep 6
 mkdir -p /sdcard/Cracked
 sleep 9
-print "${CYAN}Finding Files"
+echo "${CYAN}Finding Files"
 sleep 6
 cd /sdcard/ProgramData/Android
 cd Language
